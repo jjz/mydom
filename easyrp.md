@@ -1,5 +1,6 @@
 >brew install cmake
 
+
 https://github.com/opencv/opencv/pull/7159 AVFoundation support for macOS
 
 
